@@ -1,0 +1,12 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.blg-list {
+  padding-left: 0px;
+}
